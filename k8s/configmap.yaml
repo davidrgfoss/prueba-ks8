@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  dato_nombre: David
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: cm-prueba-k8s
